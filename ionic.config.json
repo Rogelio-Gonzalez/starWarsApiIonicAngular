@@ -1,0 +1,7 @@
+{
+  "name": "my-ionic-components-api",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
